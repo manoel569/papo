@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTIF:-1,CINEMAX
+http://thefastconection.com:80/zaqueu/zaqueu123/2214	
+#EXTIF:-1,COMBATE
+http://thefastconection.com:80/zaqueu/zaqueu123/214
+#EXTIF:-1,COMBATE HD
+http://thefastconection.com:80/zaqueu/zaqueu123/292
+#EXTIF:-1,FOX
+http://thefastconection.com:80/zaqueu/zaqueu123/195
+#EXTIF:-1,FX HD
+http://thefastconection.com:80/zaqueu/zaqueu123/274
+#EXTINF:-1,HBO
+http://tvnanet.xyz:25461/live/palmeiras/1986/144.m3u8
+#EXTINF:-1,HBO 2
+http://tvnanet.xyz:25461/live/palmeiras/1986/136.m3u8
+#EXTINF:-1,HBO PLUS
+http://tvnanet.xyz:25461/live/palmeiras/1986/141.m3u8
+#EXTINF:-1,TNT
+http://tvnanet.xyz:25461/live/palmeiras/1986/252.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://tvnanet.xyz:25461/live/palmeiras/1986/245.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://tvnanet.xyz:25461/live/palmeiras/1986/239.m3u8
